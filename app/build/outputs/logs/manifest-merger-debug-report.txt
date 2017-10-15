@@ -1,0 +1,99 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/taras/AndroidStudioProjects/gdrive-android-quickstart/app/src/main/AndroidManifest.xml:17:1-45:12
+	package
+		ADDED from /Users/taras/AndroidStudioProjects/gdrive-android-quickstart/app/src/main/AndroidManifest.xml:18:5-61
+		INJECTED from /Users/taras/AndroidStudioProjects/gdrive-android-quickstart/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/taras/AndroidStudioProjects/gdrive-android-quickstart/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/taras/AndroidStudioProjects/gdrive-android-quickstart/app/src/main/AndroidManifest.xml:20:5-30
+		INJECTED from /Users/taras/AndroidStudioProjects/gdrive-android-quickstart/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/taras/AndroidStudioProjects/gdrive-android-quickstart/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/taras/AndroidStudioProjects/gdrive-android-quickstart/app/src/main/AndroidManifest.xml:19:5-28
+		INJECTED from /Users/taras/AndroidStudioProjects/gdrive-android-quickstart/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/taras/AndroidStudioProjects/gdrive-android-quickstart/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/taras/AndroidStudioProjects/gdrive-android-quickstart/app/src/main/AndroidManifest.xml:17:11-69
+uses-sdk
+ADDED from /Users/taras/AndroidStudioProjects/gdrive-android-quickstart/app/src/main/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/taras/.android/build-cache/bae212b92adde7d069123e7829fe5b10732db128/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/taras/.android/build-cache/ac0a99682a7d9fb933ecabcd2f39fa0c2a73c35c/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/taras/.android/build-cache/4047500de249c8727bf99067475f1e706cabbe7e/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:8.4.0] /Users/taras/.android/build-cache/d3dbed759bd7fbca6a9427a9e929e68a00f6c44d/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] /Users/taras/.android/build-cache/72a9781a26ae7014287e6518866da9464ae22068/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /Users/taras/.android/build-cache/3dc2ab6d59026c2bcfc178baaed68e8a79da3a61/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/taras/.android/build-cache/d75f2a44e8e38bac6ad42a22c175e700e93139d4/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/taras/.android/build-cache/435c771a4fc258e0537b2cf679fe096fbf23ce35/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/taras/.android/build-cache/402424de351aa9339ccb0d657a623a495a7ff40d/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/taras/.android/build-cache/adabdf315f913785669a3a3440e1d93fd3459411/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/taras/.android/build-cache/88abeea383a97de7e25176740829497821b484d6/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/taras/.android/build-cache/eba95c5fa69c384ea019ef62df82e0bd43f73f87/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/taras/.android/build-cache/bae212b92adde7d069123e7829fe5b10732db128/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from /Users/taras/AndroidStudioProjects/gdrive-android-quickstart/app/src/main/AndroidManifest.xml:24:9-38
+		INJECTED from /Users/taras/AndroidStudioProjects/gdrive-android-quickstart/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/taras/AndroidStudioProjects/gdrive-android-quickstart/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/taras/AndroidStudioProjects/gdrive-android-quickstart/app/src/main/AndroidManifest.xml:23:9-34
+		INJECTED from /Users/taras/AndroidStudioProjects/gdrive-android-quickstart/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/taras/AndroidStudioProjects/gdrive-android-quickstart/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/taras/AndroidStudioProjects/gdrive-android-quickstart/app/src/main/AndroidManifest.xml:26:5-43:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/taras/.android/build-cache/bae212b92adde7d069123e7829fe5b10732db128/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/taras/.android/build-cache/ac0a99682a7d9fb933ecabcd2f39fa0c2a73c35c/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/taras/.android/build-cache/4047500de249c8727bf99067475f1e706cabbe7e/output/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-drive:8.4.0] /Users/taras/.android/build-cache/d3dbed759bd7fbca6a9427a9e929e68a00f6c44d/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /Users/taras/.android/build-cache/3dc2ab6d59026c2bcfc178baaed68e8a79da3a61/output/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/taras/.android/build-cache/d75f2a44e8e38bac6ad42a22c175e700e93139d4/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/taras/.android/build-cache/435c771a4fc258e0537b2cf679fe096fbf23ce35/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/taras/.android/build-cache/402424de351aa9339ccb0d657a623a495a7ff40d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/taras/.android/build-cache/adabdf315f913785669a3a3440e1d93fd3459411/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/taras/.android/build-cache/88abeea383a97de7e25176740829497821b484d6/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/taras/.android/build-cache/eba95c5fa69c384ea019ef62df82e0bd43f73f87/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/taras/AndroidStudioProjects/gdrive-android-quickstart/app/src/main/AndroidManifest.xml:29:9-41
+	android:allowBackup
+		ADDED from /Users/taras/AndroidStudioProjects/gdrive-android-quickstart/app/src/main/AndroidManifest.xml:27:9-35
+	android:icon
+		ADDED from /Users/taras/AndroidStudioProjects/gdrive-android-quickstart/app/src/main/AndroidManifest.xml:28:9-45
+	android:theme
+		ADDED from /Users/taras/AndroidStudioProjects/gdrive-android-quickstart/app/src/main/AndroidManifest.xml:30:9-40
+activity#com.google.android.gms.drive.sample.quickstart.MainActivity
+ADDED from /Users/taras/AndroidStudioProjects/gdrive-android-quickstart/app/src/main/AndroidManifest.xml:31:9-39:20
+	android:label
+		ADDED from /Users/taras/AndroidStudioProjects/gdrive-android-quickstart/app/src/main/AndroidManifest.xml:33:13-45
+	android:name
+		ADDED from /Users/taras/AndroidStudioProjects/gdrive-android-quickstart/app/src/main/AndroidManifest.xml:32:13-87
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/taras/AndroidStudioProjects/gdrive-android-quickstart/app/src/main/AndroidManifest.xml:34:13-38:29
+action#android.intent.action.MAIN
+ADDED from /Users/taras/AndroidStudioProjects/gdrive-android-quickstart/app/src/main/AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from /Users/taras/AndroidStudioProjects/gdrive-android-quickstart/app/src/main/AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/taras/AndroidStudioProjects/gdrive-android-quickstart/app/src/main/AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from /Users/taras/AndroidStudioProjects/gdrive-android-quickstart/app/src/main/AndroidManifest.xml:37:27-74
+meta-data#com.google.android.gms.version
+ADDED from /Users/taras/AndroidStudioProjects/gdrive-android-quickstart/app/src/main/AndroidManifest.xml:40:9-42:69
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /Users/taras/.android/build-cache/3dc2ab6d59026c2bcfc178baaed68e8a79da3a61/output/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from /Users/taras/AndroidStudioProjects/gdrive-android-quickstart/app/src/main/AndroidManifest.xml:42:13-66
+	android:name
+		ADDED from /Users/taras/AndroidStudioProjects/gdrive-android-quickstart/app/src/main/AndroidManifest.xml:41:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/taras/.android/build-cache/bae212b92adde7d069123e7829fe5b10732db128/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/taras/.android/build-cache/ac0a99682a7d9fb933ecabcd2f39fa0c2a73c35c/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/taras/.android/build-cache/4047500de249c8727bf99067475f1e706cabbe7e/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/taras/.android/build-cache/d75f2a44e8e38bac6ad42a22c175e700e93139d4/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/taras/.android/build-cache/435c771a4fc258e0537b2cf679fe096fbf23ce35/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/taras/.android/build-cache/402424de351aa9339ccb0d657a623a495a7ff40d/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/taras/.android/build-cache/adabdf315f913785669a3a3440e1d93fd3459411/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/taras/.android/build-cache/88abeea383a97de7e25176740829497821b484d6/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/taras/.android/build-cache/eba95c5fa69c384ea019ef62df82e0bd43f73f87/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/taras/.android/build-cache/bae212b92adde7d069123e7829fe5b10732db128/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/taras/.android/build-cache/bae212b92adde7d069123e7829fe5b10732db128/output/AndroidManifest.xml:26:9-47
